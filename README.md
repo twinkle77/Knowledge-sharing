@@ -4,7 +4,8 @@
 
 * [Jerry Qu](https://imququ.com/) --- http相关
 * [DDFE-blog](https://github.com/DDFE/DDFE-blog/issues) --- vue相关
-
+* [美团点评技术团队](https://tech.meituan.com/)
+* [Alloy周刊](http://www.alloyteam.com/alloyshare/weekly/p/1)
 
 算法：
 
