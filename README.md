@@ -2,7 +2,8 @@
 
 知名博客：
 
-[Jerry Qu](https://imququ.com/)
+* [Jerry Qu](https://imququ.com/) --- http相关
+* [DDFE-blog](https://github.com/DDFE/DDFE-blog/issues) --- vue相关
 
 
 算法：
