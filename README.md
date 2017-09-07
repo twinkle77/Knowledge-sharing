@@ -9,8 +9,11 @@
 
 算法：
 
-[剑指offer](http://www.cnblogs.com/echovic/)
+* [剑指offer](http://www.cnblogs.com/echovic/)
 
+前端黑科技：
+
+* [species-in-pieces](https://leeluolee.github.io/2015/04/01/render-3d-use-clip-path/)
 
 
 
