@@ -11,6 +11,8 @@
 * [腾讯ISUX ](https://isux.tencent.com/)
 * [Div.io](http://div.io)
 * [十年踪迹](https://www.h5jun.com/)
+* [白色橡树](http://peunzhang.cnblogs.com/)---移动web开发知识
+* [jtyjty99999](https://github.com/jtyjty99999/mobileTech)---移动web开发知识
 
 算法：
 
